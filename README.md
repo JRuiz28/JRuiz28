@@ -5,7 +5,7 @@
 
 🎓 I studied *Informática empresarial* in University of Costa Rica. Some of my projects were carried out there.
 
-💻 I keep learning day by day, about Framework and librery because I think my furuto is in my hands.
+💻 I keep learning day by day, about Framework and librery, because I think my furuto is in my hands.
 
 
 
