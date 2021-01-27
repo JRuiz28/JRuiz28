@@ -9,7 +9,8 @@
 
 
 
- ## **JavaScript | React | Angular | HTML | CSS | Bootstrap | PHP | Laravel | C# |Git | Mobile First**
+ ##
+ **JavaScript | React | Angular | HTML | CSS | Bootstrap | PHP | Laravel | C# |Git | Mobile First**
 
 <!--
 **JRuiz28/JRuiz28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
