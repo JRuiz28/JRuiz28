@@ -1,5 +1,5 @@
-## Hey! I'm Josue Ruiz.
-# I'm a Full Stack developer.
+# Hey! I'm Josue Ruiz.
+## I'm a Full Stack developer.
  
  
  **JavaScript | React | Angular | HTML | CSS | Bootstrap | PHP | Laravel | C# |Git | Mobile First**
