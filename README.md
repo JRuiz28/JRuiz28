@@ -3,7 +3,7 @@
 
 💬 I'm from Costa Rica. I love working in application development. I love what I do.
 
-🎓 I studied *Informática empresarial* in University of Costa Rica. Some of my projects were carried out there.
+🎓 I studied '*Informática empresarial*' in University of Costa Rica. Some of my projects were carried out there.
 
 💻 I keep learning day by day, about Framework and librery, because I think that, my furute is in my hands.
 
