@@ -5,12 +5,12 @@
 
 🎓 I studied *Informática empresarial* in University of Costa Rica. Some of my projects were carried out there.
 
-💻 I keep learning day by day, about Framework and librery, because I think my furute is in my hands.
+💻 I keep learning day by day, about Framework and librery, because I think that, my furute is in my hands.
 
 
 
  ##
- **JavaScript | React | Angular | HTML | CSS | Bootstrap | PHP | Laravel | C# |Git | Mobile First**
+ **JavaScript | React | Angular | HTML | CSS | Bootstrap | PHP | Laravel | C# | GitHub | Mobile First**
 
 <!--
 **JRuiz28/JRuiz28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
